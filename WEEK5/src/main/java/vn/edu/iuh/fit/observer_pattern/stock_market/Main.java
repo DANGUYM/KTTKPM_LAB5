@@ -13,7 +13,7 @@ public class Main {
         stock.attach(investor1);
         stock.attach(investor2);
 
-        System.out.println("🔔 Thay đổi giá cổ phiếu...");
+        System.out.println("Thay đổi giá cổ phiếu...");
         stock.setPrice(155.5);
         stock.setPrice(160.0);
     }

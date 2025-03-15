@@ -13,7 +13,7 @@ public class Main {
         task.attach(dev1);
         task.attach(dev2);
 
-        System.out.println("🚀 Thay đổi trạng thái công việc...");
+        System.out.println("Thay đổi trạng thái công việc...");
         task.setStatus("In Progress");
         task.setStatus("Completed");
     }
